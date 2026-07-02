@@ -1,3 +1,7 @@
+/**
+ * Objetivo: Praticar saída com System.out.println com variáveis.
+ */
+
 public class ControleEstoquePadaria {
 
 	public static void main(String[] args) {

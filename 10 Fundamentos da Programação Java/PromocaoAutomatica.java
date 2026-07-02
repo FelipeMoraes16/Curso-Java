@@ -1,3 +1,7 @@
+/**
+ * Objetivo: Praticar promoção automatica de tipo para o outro.
+ */
+
 public class PromocaoAutomatica {
 
 	public static void main(String[] args) {

@@ -1,3 +1,7 @@
+/**
+ * Objetivo: Praticar conta em Java e sáida no terminal.
+ */
+
 public class CalculadoraAreaRetangulo {
 
 	public static void main(String[] args) {
