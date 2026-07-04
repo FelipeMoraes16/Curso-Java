@@ -17,3 +17,11 @@ CalculadoraSimples.java
 IncrementoDecremento.java  
 OperadoresAtribuicaoExercicio.java  
 PrecedenciaOperadoresAtribuicao.java  
+ 
+**12 Controles de Fluxo** 
+AprovacaoNotasPresenca.java 
+AprovacaoSimplificada.java 
+DiasNoMes.java 
+NivelDeSatisfacao.java 
+VerificadorDeMes.java 
+VerificarPar.java
