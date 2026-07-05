@@ -21,3 +21,6 @@ DiasNoMes.java
 NivelDeSatisfacao.java  
 VerificadorDeMes.java  
 VerificarPar.java  
+
+**13 Loops:**  
+SomaValoresAcumulados.java  
