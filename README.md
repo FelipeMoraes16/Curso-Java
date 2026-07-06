@@ -24,3 +24,6 @@ VerificarPar.java
 
 **13 Loops:**  
 SomaValoresAcumulados.java  
+SomaNumerosInteiros.java  
+ListaCarteirinha.java  
+ContagemDeDoces.java  
