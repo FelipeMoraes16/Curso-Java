@@ -18,41 +18,11 @@ No seu CMD, navegue até a pasta do exercício.
 Compile o arquivo: `javac NomeDoArquivo.java`  
 Execute o programa: `java NomeDoArquivo`  
 
-## Seções:
-
 <details>
-<summary><strong>10 Fundamentos da Programação Java:</strong></summary>
+<summary><strong>Seções:</strong></summary>
 
-* CalculadoraAreaRetangulo.java
-* ControleEstoquePadaria.java
-* PromocaoAutomatica.java
-</details>
-
-<details>
-<summary><strong>11 Operadores:</strong></summary>
-
-* CalculadoraSimples.java
-* IncrementoDecremento.java
-* OperadoresAtribuicaoExercicio.java
-* PrecedenciaOperadoresAtribuicao.java
-</details>
-
-<details>
-<summary><strong>12 Controles de Fluxo:</strong></summary>
-
-* AprovacaoNotasPresenca.java
-* AprovacaoSimplificada.java
-* DiasNoMes.java
-* NivelDeSatisfacao.java
-* VerificadorDeMes.java
-* VerificarPar.java
-</details>
-
-<details>
-<summary><strong>13 Loops:</strong></summary>
-
-* SomaValoresAcumulados.java
-* SomaNumerosInteiros.java
-* ListaCarteirinha.java
-* ContagemDeDoces.java
-</details>
+10 Fundamentos da Programação Java
+11 Operadores
+12 Controles de Fluxo
+13 Loops
+14 Principios da Programação Orientada a Objetos Java
