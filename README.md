@@ -21,8 +21,8 @@ Execute o programa: `java NomeDoArquivo`
 <details>
 <summary><strong>Seções:</strong></summary>
 
-10 Fundamentos da Programação Java
-11 Operadores
-12 Controles de Fluxo
-13 Loops
-14 Principios da Programação Orientada a Objetos Java
+10 Fundamentos da Programação Java  
+11 Operadores  
+12 Controles de Fluxo  
+13 Loops  
+14 Principios da Programação Orientada a Objetos Java  
