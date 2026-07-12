@@ -1,4 +1,4 @@
-package produto;
+package estoque;
 
 /**
  * Objetivo: Testar o conhecimento sobre encapsulamento,

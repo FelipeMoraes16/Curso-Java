@@ -18,8 +18,7 @@ No seu CMD, navegue até a pasta do exercício.
 Compile o arquivo: `javac NomeDoArquivo.java`  
 Execute o programa: `java NomeDoArquivo`  
 
-<details>
-<summary><strong>Seções:</strong></summary>
+## Seções:  
 
 10 Fundamentos da Programação Java  
 11 Operadores  
